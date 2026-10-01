@@ -93,6 +93,7 @@ export const metaBitcoinMaestro = {
 };
 
 export const linksProviders = [
+  metaIagonInsight,
   metaBlockfrost,
   metaHydraProvider,
   metaKoios,
