@@ -2,6 +2,7 @@
   "title": "Providers",
   "icon": "CloudIcon",
   "pages": [
+    "iagon-insight",
     "blockfrost",
     "hydra",
     "koios",
